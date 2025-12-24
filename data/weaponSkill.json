@@ -1,0 +1,111 @@
+[
+  {
+    "name": "攻撃",
+    "maxLevel": 5,
+    "furigana": "こうげき",
+    "overwrite": true
+  },
+  {
+    "name": "達人芸",
+    "furigana": "たつじんげい",
+    "maxLevel": 1,
+    "overwrite": true
+  },
+  {
+    "name": "業物",
+    "furigana": "わざもの",
+    "maxLevel": 3,
+    "overwrite": true
+  },
+  {
+    "name": "匠",
+    "furigana": "たくみ",
+    "maxLevel": 5
+  },
+  {
+    "name": "砥石使用高速化",
+    "furigana": "といししようこうそくか",
+    "maxLevel": 2
+  },
+  {
+    "name": "見切り",
+    "furigana": "みきり",
+    "maxLevel": 5,
+    "overwrite": true
+  },
+  {
+    "name": "会心撃【属性】",
+    "furigana": "かいしんげきぞくせい",
+    "maxLevel": 3
+  },
+  {
+    "name": "抜刀術【技】",
+    "furigana": "ばっとうじゅつわざ",
+    "maxLevel": 3
+  },
+  {
+    "name": "会心撃【特殊】",
+    "furigana": "かいしんげきとくしゅ",
+    "maxLevel": 3
+  },
+  {
+    "name": "集中",
+    "furigana": "しゅうちゅう",
+    "maxLevel": 3
+  },
+  {
+    "name": "抜刀術【力】",
+    "furigana": "ばっとうじゅつちから",
+    "maxLevel": 3
+  },
+  {
+    "name": "剛刃研磨",
+    "furigana": "ごうじんけんま",
+    "maxLevel": 3
+  },
+  {
+    "name": "攻めの守勢",
+    "furigana": "せめのしゅせい",
+    "maxLevel": 3
+  },
+  {
+    "name": "ガード性能",
+    "furigana": "がーどせいのう",
+    "maxLevel": 3
+  },
+  {
+    "name": "チャージマスター",
+    "furigana": "ちゃーじますたー",
+    "maxLevel": 3
+  },
+  {
+    "name": "毒ダメージ強化",
+    "furigana": "どくだめーじきょうか",
+    "maxLevel": 1
+  },
+  {
+    "name": "KO術",
+    "furigana": "けーおーじゅつ",
+    "maxLevel": 3
+  },
+  {
+    "name": "濡れ刃紋",
+    "furigana": "ぬれはもん",
+    "maxLevel": 3
+  },
+  {
+    "name": "白熾の奔流",
+    "furigana": "はくしのほんりゅう",
+    "maxLevel": 1
+  },
+  {
+    "name": "刃鱗研装",
+    "furigana": "じんりんけんそう",
+    "maxLevel": 1
+  },
+  {
+    "name": "耐性変換【雷】",
+    "furigana": "たいせいへんかんかみなり",
+    "maxLevel": 1
+  }
+]

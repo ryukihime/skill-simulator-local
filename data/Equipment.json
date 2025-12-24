@@ -1,0 +1,422 @@
+[
+  {
+    "part": "head",
+    "name": "レダゼルトヘルムγ",
+    "defense": 86,
+    "slot1": 3,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Redazelt",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "弱点特攻", "level": 1 },
+      { "name": "渾身", "level": 1 },
+      { "name": "スタミナ急速回復", "level": 1 }
+    ]
+  },
+  {
+    "part": "body",
+    "name": "レダゼルトメイルγ",
+    "defense": 86,
+    "slot1": 1,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Redazelt",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "力の解放", "level": 3 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "レダゼルトアームγ",
+    "defense": 86,
+    "slot1": 3,
+    "slot2": 3,
+    "slot3": 0,
+    "series": "Redazelt",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "回避距離", "level": 2 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "レダゼルトコイルγ",
+    "defense": 86,
+    "slot1": 0,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Redazelt",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "力の解放", "level": 2 },
+      { "name": "渾身", "level": 2 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "レダゼルトグリーヴγ",
+    "defense": 86,
+    "slot1": 3,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Redazelt",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "気絶耐性", "level": 3 },
+      { "name": "スタミナ急速回復", "level": 2 }
+    ]
+  },
+  {
+    "part": "head",
+    "name": "トゥナムルヘルムγ",
+    "defense": 86,
+    "slot1": 2,
+    "slot2": 2,
+    "slot3": 0,
+    "series": "Tunamul",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "フルチャージ", "level": 2 },
+      { "name": "耳栓", "level": 1 }
+    ]
+  },
+
+  {
+    "part": "body",
+    "name": "トゥナムルメイルγ",
+    "defense": 86,
+    "slot1": 0,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Tunamul",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "フルチャージ", "level": 3 },
+      { "name": "耳栓", "level": 2 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "トゥナムルアームγ",
+    "defense": 86,
+    "slot1": 2,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "Tunamul",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "整備", "level": 3 },
+      { "name": "挑戦者", "level": 1 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "トゥナムルコイルγ",
+    "defense": 86,
+    "slot1": 3,
+    "slot2": 3,
+    "slot3": 0,
+    "series": "Tunamul",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "整備", "level": 2 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "トゥナムルグリーヴγ",
+    "defense": 86,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 1,
+    "series": "Tunamul",
+    "group": "Apexsoul",
+    "skills": [
+      { "name": "納刀術", "level": 3 },
+      { "name": "挑戦者", "level": 1 }
+    ]
+  },
+  {
+    "part": "head",
+    "name": "ゴアヘルムα",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "goa",
+    "group": "nawabari",
+    "skills": [
+      { "name": "回避性能", "level": 2 },
+      { "name": "災禍転福", "level": 1 }
+    ]
+  },
+  {
+    "part": "body",
+    "name": "ゴアメイルα",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "goa",
+    "group": "nawabari",
+    "skills": [
+      { "name": "回避性能", "level": 2 },
+      { "name": "無我の境地", "level": 1 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "ゴアアームα",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "goa",
+    "group": "nawabari",
+    "skills": [
+      { "name": "体術", "level": 2 },
+      { "name": "回避性能", "level": 1 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "ゴアコイルα",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "goa",
+    "group": "nawabari",
+    "skills": [
+      { "name": "体術", "level": 2 },
+      { "name": "無我の境地", "level": 1 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "ゴアグリーヴα",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "goa",
+    "group": "nawabari",
+    "skills": [
+      { "name": "ひるみ軽減", "level": 2 },
+      { "name": "無我の境地", "level": 1 }
+    ]
+  },
+  {
+    "part": "head",
+    "name": "ゴアヘルムβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "goa",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "回避性能", "level": 1 },
+      { "name": "災禍転福", "level": 1 }
+    ]
+  },
+  {
+    "part": "body",
+    "name": "ゴアメイルβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "goa",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "回避性能", "level": 2 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "ゴアアームβ",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 2,
+    "slot3": 0,
+    "series": "goa",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "体術", "level": 1 },
+      { "name": "回避性能", "level": 1 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "ゴアコイルβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 2,
+    "slot3": 0,
+    "series": "goa",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "体術", "level": 2 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "ゴアグリーヴβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 1,
+    "series": "goa",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "ひるみ軽減", "level": 1 },
+      { "name": "無我の境地", "level": 1 }
+    ]
+  },
+  {
+    "part": "head",
+    "name": "レギオスヘルムα",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "nawabari",
+    "skills": [
+      { "name": "巧撃", "level": 1 },
+      { "name": "逆襲", "level": 1 },
+      { "name": "裂傷耐性", "level": 1 }
+    ]
+  },
+  {
+    "part": "body",
+    "name": "レギオスメイルα",
+    "defense": 80,
+    "slot1": 1,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "nawabari",
+    "skills": [
+      { "name": "回避性能", "level": 2 },
+      { "name": "挑戦者", "level": 1 },
+      { "name": "逆襲", "level": 1 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "レギオスアームα",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "nawabari",
+    "skills": [
+      { "name": "巧撃", "level": 2 },
+      { "name": "回避距離UP", "level": 1 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "レギオスコイルα",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "nawabari",
+    "skills": [
+      { "name": "回避性能", "level": 2 },
+      { "name": "挑戦者", "level": 1 },
+      { "name": "裂傷耐性", "level": 1 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "レギオスグリーヴα",
+    "defense": 80,
+    "slot1": 0,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "nawabari",
+    "skills": [
+      { "name": "巧撃", "level": 2 },
+      { "name": "挑戦者", "level": 1 },
+      { "name": "裂傷耐性", "level": 1 }
+    ]
+  },
+  {
+    "part": "head",
+    "name": "レギオスヘルムβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 1,
+    "series": "legios",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "巧撃", "level": 1 },
+      { "name": "裂傷耐性", "level": 1 }
+    ]
+  },
+  {
+    "part": "body",
+    "name": "レギオスメイルβ",
+    "defense": 80,
+    "slot1": 2,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "legios",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "回避性能", "level": 2 },
+      { "name": "挑戦者", "level": 1 }
+    ]
+  },
+  {
+    "part": "arm",
+    "name": "レギオスアームβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 0,
+    "series": "legios",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "巧撃", "level": 2 }
+    ]
+  },
+  {
+    "part": "waist",
+    "name": "レギオスコイルβ",
+    "defense": 80,
+    "slot1": 3,
+    "slot2": 1,
+    "slot3": 1,
+    "series": "legios",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "回避性能", "level": 1 },
+      { "name": "挑戦者", "level": 1 }
+    ]
+  },
+  {
+    "part": "leg",
+    "name": "レギオスグリーヴβ",
+    "defense": 80,
+    "slot1": 1,
+    "slot2": 0,
+    "slot3": 0,
+    "series": "legios",
+    "group": "urokogasane",
+    "skills": [
+      { "name": "巧撃", "level": 2 },
+      { "name": "挑戦者", "level": 1 }
+    ]
+  }
+]

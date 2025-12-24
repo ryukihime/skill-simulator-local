@@ -23,7 +23,7 @@ export function searchArmorCombinations(armorSkills: SkillItem[]): Equipment[][]
 
     const grouped = groupByPart(filtered);
 
-    let armorResults: Equipment[][] = [];
+    const armorResults: Equipment[][] = [];
     const skillsSorted = [...armorSkills].sort((a, b) => b.level - a.level);
 
     if (skillsSorted.length > 0) {
@@ -78,7 +78,7 @@ export function searchArmorCombinations(armorSkills: SkillItem[]): Equipment[][]
 
             // Try equipping items from this part
             for (const armor of groupForPart) {
-                let newShortage = new Map(skillShortage);
+                const newShortage = new Map(skillShortage);
                 for (const s of armor.skills) {
                     if (newShortage.has(s.name)) {
                         newShortage.set(s.name, newShortage.get(s.name)! - s.level);

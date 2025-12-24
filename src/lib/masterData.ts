@@ -50,18 +50,18 @@ export type Weapon = {
 };
 
 // Add IDs if missing
-export const EQUIPMENT_DATA: Equipment[] = (equipmentJson as any[]).map((item, index) => ({
+export const EQUIPMENT_DATA: Equipment[] = (equipmentJson as unknown as Equipment[]).map((item, index) => ({
     ...item,
     id: index + 1,
     skills: Array.isArray(item.skills) ? item.skills : [], // Ensure it's an array
 }));
 
-export const SKILL_DATA: Skill[] = (skillJson as any[]).map((item, index) => ({
+export const SKILL_DATA: Skill[] = (skillJson as unknown as Skill[]).map((item, index) => ({
     ...item,
     id: index + 1,
 }));
 
-export const WEAPON_SKILL_DATA: WeaponSkill[] = (weaponSkillJson as any[]).map((item, index) => ({
+export const WEAPON_SKILL_DATA: WeaponSkill[] = (weaponSkillJson as unknown as WeaponSkill[]).map((item, index) => ({
     ...item,
     id: index + 1,
     furigana: item.furigana || null,
@@ -70,7 +70,7 @@ export const WEAPON_SKILL_DATA: WeaponSkill[] = (weaponSkillJson as any[]).map((
 // Weapon JSON dumped from Prisma usually has IDs and correct types, but 'skills' might be a JSON field.
 // Need to parse 'skills' if it's a string, though Prisma typed it as Json? in schema.
 // Verification needed: Weapon.json is empty [] so safe for now.
-export const WEAPON_DATA: Weapon[] = (weaponJson as any[]).map((item) => ({
+export const WEAPON_DATA: Weapon[] = (weaponJson as unknown as Weapon[]).map((item) => ({
     ...item,
     skills: typeof item.skills === 'string' ? JSON.parse(item.skills) : (item.skills || []),
 }));

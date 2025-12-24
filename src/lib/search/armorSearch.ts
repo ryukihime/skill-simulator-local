@@ -22,7 +22,6 @@ export function searchArmorCombinations(armorSkills: SkillItem[]): Equipment[][]
     });
 
     const grouped = groupByPart(filtered);
-    const candidateGroups = Object.values(grouped);
 
     let armorResults: Equipment[][] = [];
     const skillsSorted = [...armorSkills].sort((a, b) => b.level - a.level);

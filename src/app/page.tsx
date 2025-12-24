@@ -96,6 +96,7 @@ export default function SkillPage() {
       setWeaponNameOptions(names);
       setWeaponNameLoading(false);
     }, 100);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [weaponType, weaponElement, weaponNameOpen]);
 
   // UI Derived State

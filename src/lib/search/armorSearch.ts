@@ -1,11 +1,6 @@
 
 import { EQUIPMENT_DATA, Equipment, SkillItem } from '../masterData';
 
-function parseSkillsField(skillsField: unknown): SkillItem[] {
-    if (Array.isArray(skillsField)) return skillsField as SkillItem[];
-    return [];
-}
-
 function groupByPart(equipments: Equipment[]): Record<string, Equipment[]> {
     const grouped: Record<string, Equipment[]> = {};
     for (const eq of equipments) {
